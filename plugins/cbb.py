@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/ankivectorUpdates"
+                        "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️", url="https://t.me/STM_Developers"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/ankivectorUpdates"
+                        "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️", url="https://t.me/STM_Developers"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates Channel", url="https://t.me/ankivectorUpdates"
+                        "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️", url="https://t.me/STM_Developers"
                     )
                 ],
             ]
