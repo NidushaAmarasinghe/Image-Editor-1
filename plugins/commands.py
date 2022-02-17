@@ -18,8 +18,8 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates Channel",
-                            url="https://t.me/ankivectorUpdates",
+                            "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️",
+                            url="https://t.me/STM_Developers",
                         )
                     ],
                 ]
@@ -44,8 +44,8 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates Channel",
-                            url="https://t.me/ankivectorUpdates",
+                            "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️",
+                            url="https://t.me/STM_Developers",
                         )
                     ],
                 ]
@@ -70,8 +70,8 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates Channel",
-                            url="https://t.me/ankivectorUpdates",
+                            "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️",
+                            url="https://t.me/STM_Developers",
                         )
                     ],
                 ]
