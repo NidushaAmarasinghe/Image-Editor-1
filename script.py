@@ -5,7 +5,7 @@ class script(object):
 I'm a Image Editor Bot which Supports various modes
 
 For more click help....</b>"""
-    HELP_MSG = """Hai, Follow these Steps..
+    HELP_MSG = """Hi, Follow these Steps..
 
 <code>🌀 Send me any Image to Edit..</code>
 
@@ -14,7 +14,7 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @ankivectorUpdates"""
+© @STM_Developers"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
