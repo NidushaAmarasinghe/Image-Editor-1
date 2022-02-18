@@ -18,7 +18,7 @@ For more click help....</b>"""
 
 © @STM_Developers"""
     
-        GRPSTART_MSG = """ <b>Hi {}
+        GRPSTART_MSG = """ <b>Hi 
 
 Use Me In PM [Private]
 For more click help....</b>"""
