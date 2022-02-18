@@ -80,3 +80,30 @@ async def about(client, message):
         )
     except Exception:
         pass
+
+    
+    @Client.on_message(filters.command(["start"]) & filters.group)
+async def start(client: Client, message: Message):
+    try:
+        await message.reply_text(
+            text=script.START_MSG.format(message.from_user.mention),
+            disable_web_page_preview=True,
+            reply_markup=InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("HELP", callback_data="help_data"),
+                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                    ],
+                    [
+                        InlineKeyboardButton(
+                            "👻𝚂𝚃𝙼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜✌️",
+                            url="https://t.me/STM_Developers",
+                        )
+                    ],
+                ]
+            ),
+            reply_to_message_id=message.message_id,
+        )
+    except Exception:
+        pass
+
